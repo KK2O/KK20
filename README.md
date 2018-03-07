@@ -1,3 +1,2 @@
-# KK20
-An offline Kisekae 2 loader and updater.
-You only need to download the .exe.
+# Kisekae K-Tools
+A toolbox for the official offline Kisekae.
